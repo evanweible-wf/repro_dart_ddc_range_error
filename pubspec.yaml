@@ -1,0 +1,10 @@
+name: ddc_mixin_range_error_repro
+version: 0.0.0
+private: true
+
+dependencies:
+  collection: ^1.14.11
+
+dev_dependencies:
+  build_runner: any
+  build_web_compilers: ^2.1.0
